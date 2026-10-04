@@ -1,0 +1,9 @@
+[submodule "Configuration"]
+	path = Configuration
+	url = git@github.com:Dream-Snow-Flower/Autosar_S32K144_4.3_Configuration.git
+[submodule "Software"]
+	path = Software
+	url = git@github.com:Dream-Snow-Flower/Autosar_S32K144_4.3_Software.git
+[submodule "Tools"]
+	path = Tools
+	url = git@github.com:Dream-Snow-Flower/Autosar_S32K144_4.3_Tools.git
